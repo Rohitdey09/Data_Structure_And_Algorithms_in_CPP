@@ -22,5 +22,6 @@ int main() {
     cout << "The factorial of " << n << " is: " << result << endl; 
  
     return 0; 
+ 
 
 }
