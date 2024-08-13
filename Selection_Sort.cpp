@@ -34,3 +34,14 @@ int main(){
     return 0;
 }
 
+/*
+
+Output
+
+Enter the size of the array 4
+5 6 4 5
+The sorted array is 4 5 5 6 
+
+*/
+
+
