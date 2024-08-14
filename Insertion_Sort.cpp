@@ -35,3 +35,10 @@ int main()
  return 0;
 }
 
+/*
+
+Output
+
+The sorted array is 1 2 3 5 5 6 7 8
+
+*/
