@@ -58,7 +58,6 @@ int main() {
     ll.append(4);
     ll.append(5);
 
-    
 
     if (ll.detectCycle()) {
         cout << "Cycle detected in the linked list." << endl;
