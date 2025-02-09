@@ -77,8 +77,6 @@ void infixtopostfix(char* arr,int n){
 }
 
 
-
-
 int main() {
     char arr[]={'a','+','b','+','c'};
     int n=sizeof(arr)/sizeof(char);
